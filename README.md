@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Kingdom Fall is a simple and challenging 3rd person Action RPG where you play a druid archer that slays hordes of enemies in beautiful landscapes across the lands of a fallen Kingdom. Level up, gain scrolls and power up your skills to slay all evil.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,12 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | 64-bit Windows | macOS 11.0 or later |
+| **Processor** | Intel CPU Core i3-2120 (3.3 GHz) / AMD CPU FX-6300 (3.5… | Intel Core i5 / Apple M1 |
+| **Memory** | 8 GB RAM | 8 GB RAM |
+| **Graphics** | Nvidia GeForce GTX 760 (2 GB) / AMD Radeon HD 7850 (2 G… | Metal-capable GPU |
+| **DirectX** | Version 11 | Version 11 |
+| **Storage** | 15 GB available space | 15 GB available space |
 
 ---
 
